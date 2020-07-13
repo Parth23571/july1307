@@ -1,0 +1,8 @@
+package com.stc.test;
+
+
+public class july13test {
+  @Test
+  public void f() {
+  }
+}
